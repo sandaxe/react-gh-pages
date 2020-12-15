@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://65.0.98.132",
-  "homepage":"https://sandaxe.github.io/react-gh-pages/",
+  "homepage":"http://sandaxe.github.io/react-gh-pages",
   "dependencies": {
     "@google-cloud/storage": "^5.6.0",
     "@google-cloud/vision": "^2.1.2",
@@ -94,7 +94,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "start-dev": "node scripts/start.js",
-    "build": "GENERATE_SOURCEMAP=false node scripts/build.js",
+    
     "profile": "PROFILE=true node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
     "predeploy": "npm run build",
