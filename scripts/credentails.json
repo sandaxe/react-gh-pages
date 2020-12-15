@@ -1,0 +1,14 @@
+{
+	"type": "service_account",
+	"project_id": "cep-module",
+	"private_key_id": "0349a644068ca429807676d8561614cb1c5ecd02",
+	"private_key":
+		"-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw+lCRT2nFuVE+\nR1ROVIPu9G+swhEnIB1fqJ6lUgHlLKbpRNJVeU4cM4bRpgBKtbePYJyXHP/ohyeJ\n3JxZjzCsiaOGGN1Yf7c+YaOkhyqaND2vbDzQhzk5lg926ZYtIrRWSIEB6TXWz6/G\n9Ub1EUPklzRSWjEmfqXf9p5/a63FCY+DwjgAGREzMRybPbgjo39k6WGp0acomo1t\nhDVoXTaLLKzMSNg6bGA3F5VIy2ojAgb24Mvle7Shg3Bo/ltWA4RmrS//FtQQ/OG2\n+APNsEKGUZqR8xqGIZ5bnndl1UK1LbCCUG9rj0rN9mWYHiobl2+LAp6zic+fV2Wp\nxf9S1NozAgMBAAECggEAVtSxk+HlMPwgBtDjZb0ksChg5F+hH9OrZcQq9kzanjD+\nwaOhGQu3zbFgO9tY+E7Y/XE20xOI4XLybLr/QRe2l2i+gOwRKbsb0nEAY5hnyBnK\njBesbNlzs7PS6ZJousN0vIK9PQ1Je5gRk6nDAzlR2MVxB9i1lb/8rXpoQHc53lpk\nd5XoHkVdu3Cyc56CZ468u7ko/BLDLd0v/4voE56imnOH87KNhsJidM+JcuerkD0e\nFG0kpDs5SGoWa98G8u1+2hXYhU7du65rQGJenWHyVoBAr8dQQYef3KkzFxGLccw+\nie5NunYl+22RWN9cChlhYnyMW4Af/1GePF0FM6zOPQKBgQDxaWFCQJZcnxV7gmOB\nLCliHBdltgM3TTkfEBiCecvyQoVN1/xYlv/Ips3TWhrS0diJdBmAfd0oghtqFQgB\nyYJmt++vEPk7suHK5Hu9BDzb8IixciuFWUOnbQ1TqU4/y/OnvmFggyEU9IW/g+tL\nw4auh0VJrR7+U6KPjR+vlydD9wKBgQC7rCXhK4ZygdEaGzabwnCgOX25r7qmhBtl\n+b4izbZeq/UPgxPSiyl7ekhMa5LrKTSeNWkGcFGC3L7Hd8IFF8zeM0+DilF/C6SK\nw5WdO0XSsQpdeFwlKU0c4N9hPMNfMNXgCFpNnG81wNOTsCwHvpRCWOSakJ9DrQoe\nw+l7jU9UpQKBgQCK/jZuM8uetkVjIDZ0N933y964w+vkGkUqGlVSQhfnet9Pa2yy\nAPZyK3/UEUviV8nJkhvgvBbqbMal9Efw53l59Ks+a5JkCeEwtQ59TIRRyZKaP/bI\nxxVJv2Lt6UvRNXcq/FUKgVU5wHOFScnejEvuDpoZCmEO4050QjedHHUSDwKBgExJ\nXdx55N0HCAikpz4Je96lgAXK+QRXDwwUyMU8+bTiEWuMzLH4/5PB0UG/OKl+xnTJ\nITgM0BVxxdsvQx7u3cg08011HEuYX/pIJrkTLv7GGICGPG6eq0nh3uuX15MKNuYq\nfwqtXEdtapPOORes0HdnywVJZHQOEt8OpAolFupBAoGBALMltgxl5JOMArt1sU4v\nhAyyM7WbfnIGymyfkSMe9COiTMqzLgD84n6rWMCHjVn9BOKJ53DkQXPzN5d9wvJu\n44sArkUOKUDv2s1sE52Qj7CPRpJYyDFTR0IMsa7IB90XH3/TH0R2FMSqjnL3ehzP\npYjOkZtZVBZHbw6G1SSdPXCS\n-----END PRIVATE KEY-----\n",
+	"client_email": "cep-service-account@cep-module.iam.gserviceaccount.com",
+	"client_id": "101945894540876257803",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://accounts.google.com/o/oauth2/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url":
+		"https://www.googleapis.com/robot/v1/metadata/x509/cep-service-account%40cep-module.iam.gserviceaccount.com"
+}
